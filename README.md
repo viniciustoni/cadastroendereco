@@ -215,8 +215,8 @@ O Request, é no formato REST com os seguintes campos:
 - JSON Response
 
 O response será:
-200	- Remoção efetuado com sucesso
-431	- Nenhum endereço encontrada
+- 200	- Remoção efetuado com sucesso
+- 431	- Nenhum endereço encontrada
 
 ##  /cadastroendereco/removePessoa
 
@@ -229,5 +229,5 @@ O Request, é no formato REST com os seguintes campos:
 - JSON Response
 
 O response será:
-200	- Remoção efetuado com sucesso
-430	- Nenhuma pessoa encontrada
+- 200	- Remoção efetuado com sucesso
+- 430	- Nenhuma pessoa encontrada
